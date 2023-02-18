@@ -7,6 +7,9 @@ If you received a unit directly from me, proceed to the Drink Minder setup.pdf i
 
 Please note that OBS fucntions are beta a the moment and do not have setup instructions yet.
 
+Avatar setup instructions here >
+Avatars-3.0-Manager link: https://github.com/VRLabs/Avatars-3.0-Manager/releases
+
 
 Flashing new firmware (if needed or instructed to)
 
