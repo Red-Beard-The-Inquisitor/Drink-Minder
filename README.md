@@ -5,7 +5,7 @@ Ever wanted to show the level of your Real life drink in realtime while in VRC o
 
 If you received a unit directly from me, proceed to the Drink Minder setup.pdf instuctions located in this Repository.
 
-PLease note that OBS fucntions are beta a the moment and do not have setup instructions yet.
+Please note that OBS fucntions are beta a the moment and do not have setup instructions yet.
 
 
 Flashing new firmware (if needed or instructed to)
